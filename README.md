@@ -24,7 +24,7 @@ yarn add install react-native-visibility-aware-list
 Here's a simple example to get you started:
 
 ```javascript
-import VisibilityAwareFlatList from 'path-to-component';
+import VisibilityAwareFlatList from 'react-native-visibility-aware-list';
 
 // Usage in your component
 <VisibilityAwareFlatList
