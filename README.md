@@ -1,8 +1,13 @@
-# react-native-visibility-aware-list
+<h1 align="center">react-native-customizable-toast</h1>
+
 
 <p align="center">
-  <img src="https://imgur.com/u94Pa4T.gif" />
+  <p align="center">🛹visibility aware view that you can follow viewport</p>
+  <p align="center" >
+    <img src="https://imgur.com/u94Pa4T.gif" />
+  </p>
 </p>
+
 
 This React Native component, VisibilityAwareFlatList, is a custom implementation of the standard FlatList component. It is designed to provide awareness of the visibility of individual items within the list, allowing developers to respond to changes in the viewport.
 
