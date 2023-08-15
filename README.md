@@ -1,4 +1,4 @@
-<h1 align="center">react-native-customizable-toast</h1>
+<h1 align="center">react-native-visibility-aware-list</h1>
 
 
 <p align="center">
