@@ -23,7 +23,7 @@ This React Native component, VisibilityAwareFlatList, is a custom implementation
 ## Installation
 
 ```sh
-yarn add install react-native-visibility-aware-list
+yarn add react-native-visibility-aware-list
 ```
 ## Usage
 Here's a simple example to get you started:
